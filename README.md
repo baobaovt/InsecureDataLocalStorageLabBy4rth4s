@@ -1,7 +1,7 @@
 # InsecureDataLocalStorageLabBy4rth4s
 mobile pentesting <br />
-- Shared Preferences <br />
-- SQLite Databases (sqlinjection) <br />
+- Shared Preferences (Insecure + Hardening) <br />
+- SQLite Databases (sqlinjection + Hardening) <br />
 - Firebase Databases  <br />
 - Realm Databases <br />
 - Internal Storage  <br />
