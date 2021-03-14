@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/txt6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textUri"
+        android:hint="Type Something"
+
+        android:singleLine="true">
+
+    </EditText>
+
+    <TextView
+        android:id="@+id/textview6"
+        android:layout_width="match_parent"
+        android:layout_height="384dp" />
+
+    <Button
+        android:id="@+id/btnSend6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+    <Button
+        android:id="@+id/btnShow6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SHOW"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+    <Button
+        android:id="@+id/btnNext6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NEXT"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+</LinearLayout>

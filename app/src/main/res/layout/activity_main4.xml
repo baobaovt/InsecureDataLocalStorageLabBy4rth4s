@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/name4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Type Name ..."
+        android:singleLine="true">
+
+    </EditText>
+    <EditText
+        android:id="@+id/age4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Type Age ..."
+        android:singleLine="true">
+
+    </EditText>
+
+
+    <TextView
+        android:id="@+id/textview4"
+        android:layout_width="match_parent"
+        android:layout_height="314dp" />
+
+    <Button
+        android:id="@+id/insert4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INSERT"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+    <Button
+        android:id="@+id/btnShow4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ShowData"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+    <Button
+        android:id="@+id/btnNext4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NEXT"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+</LinearLayout>

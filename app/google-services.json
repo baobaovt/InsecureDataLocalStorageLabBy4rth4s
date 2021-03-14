@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60981371566",
+    "firebase_url": "https://localstorage-f8ecb-default-rtdb.firebaseio.com",
+    "project_id": "localstorage-f8ecb",
+    "storage_bucket": "localstorage-f8ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60981371566:android:11b721f7d353f66269c33f",
+        "android_client_info": {
+          "package_name": "com.example.localstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60981371566-b9a765g8qhs45l1qqtef94aks0sct5tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localstorage",
+            "certificate_hash": "12960d2fb280bb8777128a19bf2e8bad14aaa138"
+          }
+        },
+        {
+          "client_id": "60981371566-9knk4m81ai5ainsptgtqom1iebii1tt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6W39kfw5hW98s781sk3cbMTfM6eOi3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60981371566-9knk4m81ai5ainsptgtqom1iebii1tt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

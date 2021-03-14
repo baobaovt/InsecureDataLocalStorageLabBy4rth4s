@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Username"
+        android:singleLine="true">
+
+    </EditText>
+    <EditText
+        android:id="@+id/pwd2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="Password"
+
+
+        android:singleLine="true">
+
+    </EditText>
+
+
+    <TextView
+        android:id="@+id/textview2"
+        android:layout_width="match_parent"
+        android:layout_height="245dp" />
+
+    <Button
+        android:id="@+id/insert2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INSERT"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+    <Button
+        android:id="@+id/findName2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FINDBYNAME"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+    <Button
+        android:id="@+id/find2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FIND"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+    <Button
+        android:id="@+id/btnNext2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NEXT"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+</LinearLayout>

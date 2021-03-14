@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Local Storage</string>
+    <string name="SharedPreferences">SharedPreferences</string>
+    <string name="SQLite">SQLite</string>
+    <string name="FireBaseRealTimeDatabase">FireBaseRealTimeDatabase</string>
+    <string name="RealmDatabase">RealmDatabase</string>
+</resources>
